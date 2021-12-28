@@ -1,2 +1,2 @@
 # satus-templates
-A collection of frontend project templates for SATUS.
+A collection of frontend project templates for Satus.
